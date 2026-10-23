@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Midterm_Mobile" parent="Theme.MaterialComponents.Light" />
+</resources>
